@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8b06be5-6a9b-49f0-9459-673e26823383": {
+      "ProjectGuid": "b8b06be5-6a9b-49f0-9459-673e26823383",
+      "DisplayName": "OsUserChecker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

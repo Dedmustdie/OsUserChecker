@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wc0R1StvlENT1kDYYut5rGXjewo1W4ko5s5gMY0QaFFooqWo5QXKT4VWyUCaQ066vpunNdxMYr0l/v5mT/fm8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kensein\\source\\repos\\OsUserChecker\\OsUserChecker\\OsUserChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kensein\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kensein\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

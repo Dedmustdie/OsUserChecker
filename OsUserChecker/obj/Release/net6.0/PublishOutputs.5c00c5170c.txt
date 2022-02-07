@@ -1,0 +1,10 @@
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\OsUserChecker.exe
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\OsUserChecker.dll
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\OsUserChecker.deps.json
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\OsUserChecker.runtimeconfig.json
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\OsUserChecker.pdb
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\System.CodeDom.dll
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\System.Management.dll
+C:\Users\Kensein\source\repos\OsUserChecker\OsUserChecker\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Management.dll
